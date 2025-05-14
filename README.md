@@ -42,8 +42,6 @@ NutriMate는 머신러닝 기반 학습은 포함하지 않지만,
 ---
 
 ## 실행 방법
-
-### 1. 필요 패키지 설치
 ```bash
 pip install pandas numpy scipy
 python NutriMate.py
